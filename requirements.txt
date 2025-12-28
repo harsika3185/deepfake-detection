@@ -1,0 +1,43 @@
+# Core Python
+numpy
+scipy
+pandas
+tqdm
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+timm
+pytorch-lightning
+
+# Computer Vision
+opencv-python
+Pillow
+facenet-pytorch
+
+# Audio Processing
+librosa
+
+# Data Augmentation
+albumentations
+
+# Explainability
+captum
+
+# Evaluation & Metrics
+scikit-learn
+
+# Video / Media Processing
+ffmpeg-python
+
+# API & Serving
+fastapi
+uvicorn
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+pyyaml
